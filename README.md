@@ -12,7 +12,7 @@
 ### SAME BOT (official TG rename bot)
 
 <p align="center">
-🤖 <a href="http://t.me/TG_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=PYRO+RENAME&message=BOT&color=blue-green"></a> 🤖
+🤖 <a href="http://t.me/TG_Rename_Bot"><img title="Telegram" src="https://img.shields.io/static/v1?label=TG+RENAME&message=BOT&color=blue-green"></a> 🤖
 </p>
 
 ### DEPLOYEMENT SUPPORT
