@@ -36,7 +36,9 @@
 </p>
 </details>
 
-
+<a href="https://render.com/deploy?repo=https://github.com/Hariharanbot/TG-Rename-Bot">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
 
 ## Configs 
 
